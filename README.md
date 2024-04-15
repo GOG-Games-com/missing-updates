@@ -1,4 +1,4 @@
-# This list is manually updated and may also contain errors.
+# This list is periodically updated and may also contain errors.
 
 - 2024-04-15 GRAVEN 16976
 - 2024-04-15 Legends of Amberland II: The Song of Trees v1.20
