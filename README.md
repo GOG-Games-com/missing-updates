@@ -1,44 +1,33 @@
 # This list is periodically updated and may also contain errors.
 
-- 2024-04-15 Ctrl Alt Ego 1.4.0.00
-- 2024-04-15 One Lonely Outpost 0.4.35
+- 2024-04-16 Alone in the Dark 1.0.3
+- 2024-04-16 Barely Racing 1.0.2.7
+- 2024-04-16 Lil' Guardsman 1.0.5.3 h01
+- 2024-04-16 Ostriv 0.5.6.0
+- 2024-04-16 LunarLux 1.332
+- 2024-04-16 Turbo Overkill 1.30
+- 2024-04-16 Alaloth: Champions of The Four Kingdoms 2024.04.15.9869bc5
+- 2024-04-16 RimWorld 1.5.4066 rev819
+- 2024-04-15 Terra Invicta 0.4.18
 - 2024-04-15 Hellish Quart 0.352
 - 2024-04-15 War Hospital 1.10
 - 2024-04-15 InfraSpace InfraSpace_1.44.435
 - 2024-04-15 Roboquest 1.2.0 - 63
 - 2024-04-15 The Chronicles Of Myrtana: Archolos 1.2.11 (Russian Voice-over)
-- 2024-04-15 Northgard 3.4.30.37527
-- 2024-04-15 GRAVEN 16976
 - 2024-04-15 Legends of Amberland II: The Song of Trees v1.20
 - 2024-04-15 Tomb Raider I-III Remastered Starring Lara Croft 1.01 Patch 2
-- 2024-04-15 Airship: Kingdoms Adrift 1.5.4.1
-- 2024-04-15 House Party 1.3.2.12219b
 - 2024-04-15 Jazz Jackrabbit Collection 2.0 CSv2 Patch 2
 - 2024-04-15 Love & Sex: Second Base 24.3.0c
 - 2024-04-14 STAR FLEET II - Krellan Commander Version 2.0 2.0.15
-- 2024-04-14 Caves of Lore 1.5.8.0.1
-- 2024-04-14 Sons of Valhalla 1.0.18
 - 2024-04-14 Slave Zero X G1.04
 - 2024-04-14 AI War 2 5.596a
 - 2024-04-13 Diplomacy is Not an Option dno_0.9.122_r
-- 2024-04-13 Tunguska: The Visitation 1.82_2
-- 2024-04-13 Rail Route 2.0.17.1
-- 2024-04-12 Rise of the Triad: Ludicrous Edition 1.1.2952
-- 2024-04-12 Wizardry: Proving Grounds of the Mad Overlord 0.4.1
 - 2024-04-12 Imagine Earth 1.16.2.6270-gog
-- 2024-04-12 Ludus Mortis 1.0.5
-- 2024-04-12 Revival: Recolonization 1.0.416
-- 2024-04-12 Alaloth: Champions of The Four Kingdoms 2024.04.11.8e749a3
 - 2024-04-12 Shady Lewd Kart 1.75
-- 2024-04-12 Zoria: Age of Shattering 1.0.6
-- 2024-04-12 SpellForce: Conquest of Eo 1.6
 - 2024-04-12 Steel Division 2 120396
 - 2024-04-11 Suzerain release_3.0.7
-- 2024-04-11 Clash II 420
-- 2024-04-11 Old World 71865
 - 2024-04-10 StarCrawlers Chimera Beta 2.0.1
 - 2024-04-10 Through the Ages 2.19.989
-- 2024-04-10 LunarLux 1.33
 - 2024-04-10 Claire's Quest: GOLD 0.26.2c
 - 2024-04-09 Distant Worlds 2 1.2.2.0
 - 2024-04-09 INDUSTRIA 1.3.2
@@ -47,18 +36,15 @@
 - 2024-04-09 Grind Stormer 5
 - 2024-04-09 Truxton 2 5
 - 2024-04-09 Twin Hawk 5
-- 2024-04-09 Shotgun King: The Final Checkmate 1.41b bis
 - 2024-04-08 Shadow Empire 1.26
 - 2024-04-08 ART OF FIGHTING 3: THE PATH OF THE WARRIOR 1.0
 - 2024-04-08 CROSSED SWORDS 1.0
-- 2024-04-08 Batsugun 20
+- 2024-04-08 SOCCER BRAWL RC1
 - 2024-04-08 Fire Shark 15
 - 2024-04-08 Flying Shark 18
 - 2024-04-08 Hellfire 12
 - 2024-04-08 The Mystery Of Woolley Mountain 10
-- 2024-04-08 Parkitect Version 1.9e
 - 2024-04-08 Slap Fight 20
-- 2024-04-07 Low Magic Age 0.91.69.1
 - 2024-04-07 WAVECADE 1.8.4 (3)
 - 2024-04-06 art of rally 1.5.4
 - 2024-04-05 Songs of Conquest 0.97.6_52fc1c32b7_1621
@@ -69,8 +55,6 @@
 - 2024-04-02 Knights of the Chalice 2 1.69
 - 2024-04-01 Slay the Princess End of Everything Update 1.2a Windows
 - 2024-03-30 A Town Uncovered 0.50a
-- 2024-03-30 Inspector Schmidt - A Bavarian Tale 1.0.1.1014
-- 2024-03-29 Subverse 0.9.0
 - 2024-03-29 The Thaumaturge 0.0.71136_ship_20240328_162638
 - 2024-03-28 Warhammer 40,000: Gladius - Relics of War 1.13.04
 - 2024-03-28 BOOK OF HOURS 2024.3.e.17
@@ -84,7 +68,6 @@
 - 2024-03-19 Telepath Tactics Liberated 1.0.54a
 - 2024-03-17 Gunship + Gunship 2000 Gunship2024-03-05 @ 20:43:07
 - 2024-03-16 POSTAL 4: No Regerts 1.3.1
-- 2024-03-16 Ostriv 0.5.5.5
 - 2024-03-16 Spirit of the Island 3.0.3
 - 2024-03-15 Terraforming Mars 2.5.0.130140_master
 - 2024-03-15 Universe Sandbox 34.1.1
