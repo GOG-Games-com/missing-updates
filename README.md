@@ -1,5 +1,15 @@
 # This list is periodically updated and may also contain errors.
 
+- 2024-04-17 Love & Sex: Second Base 24.3.0e
+- 2024-04-17 The Planet Crafter v0.9.012
+- 2024-04-17 A Hat in Time 2024 Update 3
+- 2024-04-16 Craftomation 101: Programming & Craft 0.73.3
+- 2024-04-16 Peglin 0.9.55
+- 2024-04-16 Songs of Conquest 0.98.1_187fc9a692_1688
+- 2024-04-16 Revival: Recolonization 1.0.418
+- 2024-04-16 Destroyer: The U-Boat Hunter 1.0.19
+- 2024-04-16 Farmer's Life 1.013
+- 2024-04-16 Astral Ascent v806-release
 - 2024-04-16 Alone in the Dark 1.0.3
 - 2024-04-16 Barely Racing 1.0.2.7
 - 2024-04-16 Lil' Guardsman 1.0.5.3 h01
@@ -17,7 +27,6 @@
 - 2024-04-15 Legends of Amberland II: The Song of Trees v1.20
 - 2024-04-15 Tomb Raider I-III Remastered Starring Lara Croft 1.01 Patch 2
 - 2024-04-15 Jazz Jackrabbit Collection 2.0 CSv2 Patch 2
-- 2024-04-15 Love & Sex: Second Base 24.3.0c
 - 2024-04-14 STAR FLEET II - Krellan Commander Version 2.0 2.0.15
 - 2024-04-14 Slave Zero X G1.04
 - 2024-04-14 AI War 2 5.596a
@@ -44,7 +53,6 @@
 - 2024-04-08 Slap Fight 20
 - 2024-04-07 WAVECADE 1.8.4 (3)
 - 2024-04-06 art of rally 1.5.4
-- 2024-04-05 Songs of Conquest 0.97.6_52fc1c32b7_1621
 - 2024-04-05 City Game Studio: a tycoon about game dev v1.18.3
 - 2024-04-04 Forgive Me Father 2 0.3.14.48U
 - 2024-04-03 Glitchhikers: The Spaces Between 1.0.9
