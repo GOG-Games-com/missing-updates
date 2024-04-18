@@ -13,7 +13,6 @@
 - 2024-04-17 Hellfire 13
 - 2024-04-17 Nosferatu: Wrath of Malachi 1.0(a)
 - 2024-04-17 Out Zone 37
-- 2024-04-17 New The Shell Part I: Inferno 1.0.1
 - 2024-04-17 Slap Fight 21
 - 2024-04-17 Terraforming Mars 2.5.1.130143_master
 - 2024-04-17 Tiger Heli 18
