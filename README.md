@@ -1,11 +1,19 @@
 # This list is periodically updated and may also contain errors.
 
+- 2024-04-19 Dust Fleet 4.7
+- 2024-04-19 Frontier Hunter: Erza’s Wheel of Fortune 0.8.091
+- 2024-04-19 SpaceEngine 0.990.47.2020
+- 2024-04-19 Stardew Valley 1.6.4.24110.6665929918
+- 2024-04-19 Train Valley 2 1.7.0
+- 2024-04-19 Residual 1.3.1
+- 2024-04-19 Caves of Lore 1.5.9.0.1
+- 2024-04-19 Fill Multicolor 1.0.2
+- 2024-04-19 Parkitect Version 1.10
 - 2024-04-18 Batsugun 22
 - 2024-04-18 Factorio 1.1.107
 - 2024-04-18 Fixeight 16
 - 2024-04-18 Forgive Me Father 2 0.3.14.55U
 - 2024-04-18 UFO ROBOT GRENDIZER – The Feast of the Wolves 2024032701_GRENDIZER_27.0.12191
-- 2024-04-18 Wartales 1.0.34344
 - 2024-04-18 Islands of the Caliph 1.2.7
 - 2024-04-18 RAIDBORN GOG.2024.04.18
 - 2024-04-18 Warhammer 40,000: Rogue Trader Windows 1.1.58.505 Release
@@ -33,13 +41,10 @@
 - 2024-04-17 Vimana 18
 - 2024-04-17 Zero Wing 37
 - 2024-04-17 Love & Sex: Second Base 24.3.0e
-- 2024-04-17 A Hat in Time 2024 Update 3
 - 2024-04-16 Songs of Conquest 0.98.1_187fc9a692_1688
 - 2024-04-16 Ostriv 0.5.6.0
 - 2024-04-16 LunarLux 1.332
-- 2024-04-16 Alaloth: Champions of The Four Kingdoms 2024.04.15.9869bc5
 - 2024-04-16 RimWorld 1.5.4066 rev819
-- 2024-04-15 Hellish Quart 0.352
 - 2024-04-15 InfraSpace InfraSpace_1.44.435
 - 2024-04-15 Legends of Amberland II: The Song of Trees v1.20
 - 2024-04-14 STAR FLEET II - Krellan Commander Version 2.0 2.0.15
@@ -52,7 +57,6 @@
 - 2024-04-10 Claire's Quest: GOLD 0.26.2c
 - 2024-04-09 Distant Worlds 2 1.2.2.0
 - 2024-04-09 INDUSTRIA 1.3.2
-- 2024-04-09 MechWarrior 5: Mercenaries 1.1.355
 - 2024-04-09 Dogyuun 5
 - 2024-04-09 Grind Stormer 5
 - 2024-04-09 Truxton 2 5
@@ -63,15 +67,12 @@
 - 2024-04-06 art of rally 1.5.4
 - 2024-04-05 City Game Studio: a tycoon about game dev v1.18.3
 - 2024-04-03 Glitchhikers: The Spaces Between 1.0.9
-- 2024-04-03 Project Hospital 1.2.23315
-- 2024-04-02 Knights of the Chalice 2 1.69
 - 2024-04-01 Slay the Princess End of Everything Update 1.2a Windows
 - 2024-03-30 A Town Uncovered 0.50a
 - 2024-03-28 Warhammer 40,000: Gladius - Relics of War 1.13.04
 - 2024-03-28 BOOK OF HOURS 2024.3.e.17
 - 2024-03-28 Scott Whiskers in: the Search for Mr. Fumbleclaw 1.0.155
 - 2024-03-26 Tamarak Trail Willow 1.0.3
-- 2024-03-25 Fort Solis 1.0_Dec_update
 - 2024-03-22 Love Too Easily v19
 - 2024-03-21 Panzer Corps 2 1.10.03
 - 2024-03-19 Buccaneers! 1.1.01
