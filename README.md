@@ -1,6 +1,6 @@
 # This list is periodically updated and may also contain errors.
 
-# Use [gogrepoc](https://github.com/Kalanyr/gogrepoc "gogrepoc")? Check out [slugs.txt](http://https://raw.githubusercontent.com/GOG-Games-com/missing-updates/main/slugs.txt "slugs.txt") and use it to automate downloads from your library.
+# Use [gogrepoc](https://github.com/Kalanyr/gogrepoc "gogrepoc")? Check out [slugs.txt](https://raw.githubusercontent.com/GOG-Games-com/missing-updates/main/slugs.txt "slugs.txt") and use it to automate downloads from your library.
 
 - 2024-04-19 Dust Fleet 4.7
 - 2024-04-19 Frontier Hunter: Erza’s Wheel of Fortune 0.8.091
