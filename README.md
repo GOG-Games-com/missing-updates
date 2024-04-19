@@ -1,17 +1,29 @@
 # This list is periodically updated and may also contain errors.
 
+- 2024-04-18 Batsugun 22
+- 2024-04-18 Factorio 1.1.107
+- 2024-04-18 Fixeight 16
+- 2024-04-18 Forgive Me Father 2 0.3.14.55U
+- 2024-04-18 UFO ROBOT GRENDIZER – The Feast of the Wolves 2024032701_GRENDIZER_27.0.12191
+- 2024-04-18 Wartales 1.0.34344
+- 2024-04-18 Islands of the Caliph 1.2.7
+- 2024-04-18 RAIDBORN GOG.2024.04.18
+- 2024-04-18 Warhammer 40,000: Rogue Trader Windows 1.1.58.505 Release
+- 2024-04-18 ARROW Patterns 1.2
+- 2024-04-18 ARROW 1.4
+- 2024-04-18 Links Puzzle 1.0.2
+- 2024-04-18 Peaks of Yore 1.6.4d
+- 2024-04-18 Puzzlink 1.0.2
+- 2024-04-18 Swipepi 1.2
+- 2024-04-18 Tap It Away 1.0.1
+- 2024-04-18 Tunguska: The Visitation 1.82-2
+- 2024-04-18 BEAST: False Prophet 1.2.24763
 - 2024-04-17 Roboquest 1.2.0 - Summ Hotfix - 75
-- 2024-04-17 Peaks of Yore 1.6.4c
-- 2024-04-17 RAIDBORN GOG.2024.04.16
 - 2024-04-17 Redneck Rampage Collection 2.1.0.12
 - 2024-04-17 Amazing Cultivation Simulator 1.252-2404171711dev
-- 2024-04-17 Batsugun 21
-- 2024-04-17 New Chihiro Himukai Always Walks Away 1.0.1
 - 2024-04-17 Fire Shark 16
-- 2024-04-17 Fixeight 15
 - 2024-04-17 Flying Shark 19
 - 2024-04-17 Hellfire 13
-- 2024-04-17 Nosferatu: Wrath of Malachi 1.0(a)
 - 2024-04-17 Out Zone 37
 - 2024-04-17 Slap Fight 21
 - 2024-04-17 Terraforming Mars 2.5.1.130143_master
@@ -21,15 +33,12 @@
 - 2024-04-17 Vimana 18
 - 2024-04-17 Zero Wing 37
 - 2024-04-17 Love & Sex: Second Base 24.3.0e
-- 2024-04-17 The Planet Crafter v0.9.012
 - 2024-04-17 A Hat in Time 2024 Update 3
-- 2024-04-16 Peglin 0.9.55
 - 2024-04-16 Songs of Conquest 0.98.1_187fc9a692_1688
 - 2024-04-16 Ostriv 0.5.6.0
 - 2024-04-16 LunarLux 1.332
 - 2024-04-16 Alaloth: Champions of The Four Kingdoms 2024.04.15.9869bc5
 - 2024-04-16 RimWorld 1.5.4066 rev819
-- 2024-04-15 Terra Invicta 0.4.18
 - 2024-04-15 Hellish Quart 0.352
 - 2024-04-15 InfraSpace InfraSpace_1.44.435
 - 2024-04-15 Legends of Amberland II: The Song of Trees v1.20
@@ -37,7 +46,6 @@
 - 2024-04-13 Diplomacy is Not an Option dno_0.9.122_r
 - 2024-04-12 Imagine Earth 1.16.2.6270-gog
 - 2024-04-12 Shady Lewd Kart 1.75
-- 2024-04-12 Steel Division 2 120396
 - 2024-04-11 Suzerain release_3.0.7
 - 2024-04-10 StarCrawlers Chimera Beta 2.0.1
 - 2024-04-10 Through the Ages 2.19.989
@@ -54,7 +62,6 @@
 - 2024-04-07 WAVECADE 1.8.4 (3)
 - 2024-04-06 art of rally 1.5.4
 - 2024-04-05 City Game Studio: a tycoon about game dev v1.18.3
-- 2024-04-04 Forgive Me Father 2 0.3.14.48U
 - 2024-04-03 Glitchhikers: The Spaces Between 1.0.9
 - 2024-04-03 Project Hospital 1.2.23315
 - 2024-04-02 Knights of the Chalice 2 1.69
@@ -107,7 +114,6 @@
 - 2023-12-22 The Fermi Paradox 0.70.Y.7
 - 2023-12-21 Philana and the Elixir of Life v3 (EN 1.04, CN 1.00)
 - 2023-12-21 Astrea: Six-Sided Oracles 1.0.347
-- 2023-12-19 Asterix & Obelix Slap Them All! 2 2023121101_ASTERIX2_PC_GOG
 - 2023-12-19 The Signal State 1.33B
 - 2023-12-18 Dungeon's Legion v2 (EN v1.02, CN v1)
 - 2023-12-15 Battle Planet - Judgement Day 1.7.0
