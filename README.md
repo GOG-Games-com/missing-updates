@@ -2,132 +2,26 @@
 
 # Use [gogrepoc](https://github.com/Kalanyr/gogrepoc "gogrepoc")? Check out [slugs.txt](https://raw.githubusercontent.com/GOG-Games-com/missing-updates/main/slugs.txt "slugs.txt") and use it to automate downloads from your library.
 
-- 2024-04-19 Dust Fleet 4.7
-- 2024-04-19 Frontier Hunter: Erza’s Wheel of Fortune 0.8.091
-- 2024-04-19 SpaceEngine 0.990.47.2020
-- 2024-04-19 Stardew Valley 1.6.4.24110.6665929918
-- 2024-04-19 Train Valley 2 1.7.0
-- 2024-04-19 Residual 1.3.1
-- 2024-04-19 Caves of Lore 1.5.9.0.1
-- 2024-04-19 Fill Multicolor 1.0.2
-- 2024-04-19 Parkitect Version 1.10
-- 2024-04-18 Batsugun 22
-- 2024-04-18 Factorio 1.1.107
-- 2024-04-18 Fixeight 16
-- 2024-04-18 Forgive Me Father 2 0.3.14.55U
-- 2024-04-18 UFO ROBOT GRENDIZER – The Feast of the Wolves 2024032701_GRENDIZER_27.0.12191
-- 2024-04-18 Islands of the Caliph 1.2.7
-- 2024-04-18 RAIDBORN GOG.2024.04.18
+- 2024-04-23 Outcast - A New Beginning 1.0.4
+- 2024-04-22 Realms of Antiquity: The Shattered Crown 4.29.52
+- 2024-04-22 Songs of Conquest 0.99.0_6af8e06d9a_1724
+- 2024-04-22 Dust Fleet 4.9
+- 2024-04-22 Masterplan Tycoon 1.4.170
+- 2024-04-22 The Past Within 2.2
+- 2024-04-22 Underground Blossom 1.3
+- 2024-04-22 Unreal Lust Theory 0.3.4
+- 2024-04-22 Headquarters: World War II 1.00.02
+- 2024-04-22 We Are Not Alone v1.6gw
+- 2024-04-22 Wingspan #201
+- 2024-04-22 Kingdoms and Castles 122r2a
+- 2024-04-21 Factory Town 2.1.8
+- 2024-04-21 Pepper Grinder v392-full_release
+- 2024-04-21 Dungeon Vixens: A Tale of Temptation 1.4
+- 2024-04-21 AI War 2 5.597a
+- 2024-04-21 Into the Necrovale 0.5.1
+- 2024-04-21 Neverwinter Nights: Enhanced Edition 88.8193.36-13
+- 2024-04-21 POSTAL 4: No Regerts 1.3.2
+- 2024-04-21 Tunguska: The Visitation 1.82-3_1
+- 2024-04-19 Warsim: The Realm of Aslona Warsim 1.1.6 (New Start Update)
 - 2024-04-18 Warhammer 40,000: Rogue Trader Windows 1.1.58.505 Release
-- 2024-04-18 ARROW Patterns 1.2
-- 2024-04-18 ARROW 1.4
-- 2024-04-18 Links Puzzle 1.0.2
-- 2024-04-18 Peaks of Yore 1.6.4d
-- 2024-04-18 Puzzlink 1.0.2
-- 2024-04-18 Swipepi 1.2
-- 2024-04-18 Tap It Away 1.0.1
-- 2024-04-18 Tunguska: The Visitation 1.82-2
 - 2024-04-18 BEAST: False Prophet 1.2.24763
-- 2024-04-17 Roboquest 1.2.0 - Summ Hotfix - 75
-- 2024-04-17 Redneck Rampage Collection 2.1.0.12
-- 2024-04-17 Amazing Cultivation Simulator 1.252-2404171711dev
-- 2024-04-17 Fire Shark 16
-- 2024-04-17 Flying Shark 19
-- 2024-04-17 Hellfire 13
-- 2024-04-17 Out Zone 37
-- 2024-04-17 Slap Fight 21
-- 2024-04-17 Terraforming Mars 2.5.1.130143_master
-- 2024-04-17 Tiger Heli 18
-- 2024-04-17 Truxton 36
-- 2024-04-17 Twin Cobra 38
-- 2024-04-17 Vimana 18
-- 2024-04-17 Zero Wing 37
-- 2024-04-17 Love & Sex: Second Base 24.3.0e
-- 2024-04-16 Songs of Conquest 0.98.1_187fc9a692_1688
-- 2024-04-16 Ostriv 0.5.6.0
-- 2024-04-16 LunarLux 1.332
-- 2024-04-16 RimWorld 1.5.4066 rev819
-- 2024-04-15 InfraSpace InfraSpace_1.44.435
-- 2024-04-15 Legends of Amberland II: The Song of Trees v1.20
-- 2024-04-14 STAR FLEET II - Krellan Commander Version 2.0 2.0.15
-- 2024-04-13 Diplomacy is Not an Option dno_0.9.122_r
-- 2024-04-12 Imagine Earth 1.16.2.6270-gog
-- 2024-04-12 Shady Lewd Kart 1.75
-- 2024-04-11 Suzerain release_3.0.7
-- 2024-04-10 StarCrawlers Chimera Beta 2.0.1
-- 2024-04-10 Through the Ages 2.19.989
-- 2024-04-10 Claire's Quest: GOLD 0.26.2c
-- 2024-04-09 Distant Worlds 2 1.2.2.0
-- 2024-04-09 INDUSTRIA 1.3.2
-- 2024-04-09 Dogyuun 5
-- 2024-04-09 Grind Stormer 5
-- 2024-04-09 Truxton 2 5
-- 2024-04-09 Twin Hawk 5
-- 2024-04-08 Shadow Empire 1.26
-- 2024-04-08 The Mystery Of Woolley Mountain 10
-- 2024-04-07 WAVECADE 1.8.4 (3)
-- 2024-04-06 art of rally 1.5.4
-- 2024-04-05 City Game Studio: a tycoon about game dev v1.18.3
-- 2024-04-03 Glitchhikers: The Spaces Between 1.0.9
-- 2024-04-01 Slay the Princess End of Everything Update 1.2a Windows
-- 2024-03-30 A Town Uncovered 0.50a
-- 2024-03-28 Warhammer 40,000: Gladius - Relics of War 1.13.04
-- 2024-03-28 BOOK OF HOURS 2024.3.e.17
-- 2024-03-28 Scott Whiskers in: the Search for Mr. Fumbleclaw 1.0.155
-- 2024-03-26 Tamarak Trail Willow 1.0.3
-- 2024-03-22 Love Too Easily v19
-- 2024-03-21 Panzer Corps 2 1.10.03
-- 2024-03-19 Buccaneers! 1.1.01
-- 2024-03-19 Demon Lord Reincarnation 1.0.6.1
-- 2024-03-19 Telepath Tactics Liberated 1.0.54a
-- 2024-03-17 Gunship + Gunship 2000 Gunship2024-03-05 @ 20:43:07
-- 2024-03-16 POSTAL 4: No Regerts 1.3.1
-- 2024-03-15 Universe Sandbox 34.1.1
-- 2024-03-14 Starmancer 0.3.0b
-- 2024-03-13 Warhammer 40,000: Sanctus Reach 1.5.0a
-- 2024-03-13 Agatha Christie - Hercule Poirot: The London Case 1.0.7
-- 2024-03-13 Going Medieval 0.16.26REL
-- 2024-03-13 Worldless 1.3.3
-- 2024-03-12 Warhammer 40,000: Battlesector 1.04.76
-- 2024-03-12 Gord 45
-- 2024-03-11 Holomento 0.7.0
-- 2024-03-09 Aquamarine 2.1.1
-- 2024-03-09 Mount & Blade II: Bannerlord 1.2.9.35636
-- 2024-03-09 Unexplored 2: The Wayfarer's Legacy 1.6.14
-- 2024-03-05 Flotsam 0.7.6
-- 2024-03-04 Starship Troopers: Terran Command 2.08.00
-- 2024-02-28 Bear and Breakfast 1.8.25
-- 2024-02-20 Europa Universalis IV 1.36.6.0
-- 2024-02-19 Vagrus - The Riven Realms 1.1600214K
-- 2024-02-14 Regiments 1.0.99aG
-- 2024-02-13 Knight vs Giant: The Broken Excalibur 1.0.7b
-- 2024-02-11 The Legend of Heroes: Trails of Cold Steel IV 1.2.1
-- 2024-02-09 Stellar Tactics 0.725c
-- 2024-02-09 WrestleQuest 1.1.2
-- 2024-02-09 Laika: Aged Through Blood 1.0.13
-- 2024-02-09 Seeds of Chaos 0.4.02
-- 2024-02-03 Grand Tactician: The Civil War (1861-1865) 1.14
-- 2024-01-26 Maximum Action 0.93.1
-- 2024-01-25 Agatha Christie - Murder on the Orient Express 20231222-205827
-- 2024-01-24 Dreamcutter 1.3
-- 2024-01-23 Murder Is Game Over: Streaming Death 1.9
-- 2024-01-23 Decision: Red Daze 1.3.3(4)
-- 2024-01-17 Field of Glory II: Medieval 01.05.14.01
-- 2023-12-22 World Turtles 0.2
-- 2023-12-22 The Fermi Paradox 0.70.Y.7
-- 2023-12-21 Philana and the Elixir of Life v3 (EN 1.04, CN 1.00)
-- 2023-12-21 Astrea: Six-Sided Oracles 1.0.347
-- 2023-12-19 The Signal State 1.33B
-- 2023-12-18 Dungeon's Legion v2 (EN v1.02, CN v1)
-- 2023-12-15 Battle Planet - Judgement Day 1.7.0
-- 2023-12-15 Lakeburg Legacies 1.1.4.4
-- 2023-12-15 Strategic Command: American Civil War 1.09.00
-- 2023-12-13 Wildermyth 1.15+511 Orien Marten Hotfix
-- 2023-12-08 Black Academy 1.0.170
-- 2023-12-06 BallisticNG 1.3.3.1
-- 2023-12-05 Astria Ascending 1.0.154
-- 2023-12-04 Aron's Adventure 2.11
-- 2023-12-02 Tavern Master 2.0.2
-- 2023-11-30 Memoirs of a Battle Brothel 1.8
-- 2023-11-29 Hauma - A Detective Noir Story 1.04
-- 2023-11-20 Nayla's Castle 1.2
