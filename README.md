@@ -2,6 +2,11 @@
 
 # Use [gogrepoc](https://github.com/Kalanyr/gogrepoc "gogrepoc")? Check out [slugs.txt](https://raw.githubusercontent.com/GOG-Games-com/missing-updates/main/slugs.txt "slugs.txt") and use it to automate downloads from your library.
 
+- 2024-04-29 Ctrl Alt Ego 1.4.2
+- 2024-04-29 Withering Rooms v1.24
+- 2024-04-29 Rail Route 2.0.18
+- 2024-04-28 Tunguska: The Visitation 1.82-6_1
+- 2024-04-28 Stardew Valley 1.6.8.24119.6732702600
 - 2024-04-27 AI War 2 5.598
 - 2024-04-27 Slay the Princess End of Everything Update 1.2c Windows Improved Controller
 - 2024-04-27 1428: Shadows over Silesia 1.0.34
