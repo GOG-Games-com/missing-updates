@@ -2,6 +2,8 @@
 
 # Use [gogrepoc](https://github.com/Kalanyr/gogrepoc "gogrepoc")? Check out [slugs.txt](https://raw.githubusercontent.com/GOG-Games-com/missing-updates/main/slugs.txt "slugs.txt") and use it to automate downloads from your library.
 
+# Want to contribute something? Email <a href="mailto:donate@gog-games.to">donate@gog-games.to</a> with the item(s) and the download link(s).
+
 - 2024-04-29 Ctrl Alt Ego 1.4.2
 - 2024-04-29 Withering Rooms v1.24
 - 2024-04-29 Rail Route 2.0.18
