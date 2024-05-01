@@ -4,6 +4,11 @@
 
 # Want to contribute something? Upload them somewhere then send an email to <a href="mailto:donate@gog-games.to">donate@gog-games.to</a> with the item(s) and download link(s).
 
+- 2024-05-01 No Man's Sky 4.65_Orbitals_121808
+- 2024-05-01 Slay the Princess End of Everything Update 1.2d Windows Improved Controller
+- 2024-05-01 The Past Within 2.3
+- 2024-05-01 World Turtles 1.02
+- 2024-05-01 Sons of Valhalla 1.0.23
 - 2024-05-01 Legends of Amberland II: The Song of Trees v1.20.1
 - 2024-05-01 Megaquarium v4.2.0g
 - 2024-05-01 The Colonists 1.8.0.14
@@ -18,12 +23,7 @@
 - 2024-04-29 Field of Glory II 1.6.15
 - 2024-04-26 Telepath Tactics Liberated 1.0.56
 - 2024-04-26 Mount & Blade II: Bannerlord 1.2.9.38256
-- 2024-04-26 New Drain Mansion 0.1
-- 2024-04-26 New Destiny Star Girlfriend 1.0.0
-- 2024-04-26 New Holy Paladin Cynthia 1.0.0
 - 2024-04-26 Imperator: Rome 2.0.4.13
-- 2024-04-26 New Tamayura Mirai 1.0.0
-- 2024-04-26 New Tenioha! feat. Mami 1.0.0
 - 2024-04-26 A Game of Thrones: The Board Game 1.1.2.1585
 - 2024-04-25 RoboCop: Rogue City 1.0.1.7
 - 2024-04-25 Masterplan Tycoon 1.4.176
