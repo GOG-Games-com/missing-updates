@@ -4,31 +4,34 @@
 
 # Want to contribute something? Upload them somewhere then send an email to <a href="mailto:donate@gog-games.to">donate@gog-games.to</a> with the item(s) and download link(s).
 
-- 2024-07-15 Memoirs of a Battle Brothel 1.9
-- 2024-07-15 Xenonauts 2 Milestone 4.16 RELEASE
-- 2024-07-15 The Dawning Clocks of Time® Remake 1.0.2.0715.22_MASTER
-- 2024-07-15 Victory at Sea Atlantic - World War II Naval Warfare 0.33.1.0
-- 2024-07-15 Intravenous 1.5HF1
-- 2024-07-15 SPRAWL 1.5
-- 2024-07-15 Unexplored 2: The Wayfarer's Legacy 1.7.4.1
-- 2024-07-15 Everafter Falls 1.1.15v2
-- 2024-07-14 Cloud Meadow 0.2.1.1
-- 2024-07-12 Spirit of the Island 3.0.5.2
-- 2024-07-12 Vagrus - The Riven Realms 1.16720708A
-- 2024-07-12 Medieval Dynasty 2.1.1.0
-- 2024-07-12 The Thaumaturge 0.0.73424_ship_20240712_024237
-- 2024-07-12 Offworld Trading Company 1.23.68800
-- 2024-07-12 Ostriv 0.5.8.3
-- 2024-07-12 Batman™: Arkham Knight 1.999
-- 2024-07-12 Low Magic Age 0.91.72.3
-- 2024-07-11 Alaloth: Champions of The Four Kingdoms 2024.07.11.cbb5668
-- 2024-07-11 Pathfinder: Wrath of the Righteous Windows 2.3.3j Release
-- 2024-07-11 The Last Spell 1.1.3.3
-- 2024-07-11 Way of the Hunter 1.25h
-- 2024-07-11 Yuppie Psycho: Executive Edition v2.7.5
-- 2024-07-11 Old World 73138
-- 2024-07-10 The Riftbreaker 1.47413
-- 2024-07-09 Songs of Syx 0.66.49
-- 2024-07-07 Hellish Quart 0.401
-- 2024-07-04 Mount & Blade II: Bannerlord 1.2.10.42197
-- 2024-06-19 WHAT THE GOLF? win 20.5.2-2024.6.19.11.00 (release/20.5.2.e4fe7d8c4d)
+- 2024-08-16 Astral Ascent v909-release
+- 2024-08-16 Roboquest 1.4.0 - 225
+- 2024-08-16 Tunguska: The Visitation - Enhanced Edition 1.87-3
+- 2024-08-16 Wizordum v0.6.0.1
+- 2024-08-16 Odd Realm 1.0.25.0 Windows
+- 2024-08-16 X4: Foundations 7.10 Hotfix 1
+- 2024-08-15 dotAGE 1.3.3
+- 2024-08-15 DREDGE 2782 - PROD
+- 2024-08-15 Skelethrone: The Chronicles of Ericona 1.2.4.0
+- 2024-08-15 Everafter Falls 1.2.08
+- 2024-08-15 Travellers Rest 0.6.5.19
+- 2024-08-15 TFC: The Fertile Crescent 1.1000
+- 2024-08-15 Magical Drop VI 2.2.5
+- 2024-08-15 Old World 73566
+- 2024-08-14 Age of Wonders 4 96358
+- 2024-08-14 Trepang2 82.00
+- 2024-08-14 UBOAT 2024.1 (Full Release) Patch 8
+- 2024-08-14 Creatures of Ava 1.0.1
+- 2024-08-14 The Mystery Of Woolley Mountain 11
+- 2024-08-14 Victory at Sea Atlantic - World War II Naval Warfare 0.34.10.2
+- 2024-08-14 An Aunt After My Own Heart 1.0.2
+- 2024-08-14 NYO-NIN-JIMA -My New Life in Charge of a Tropical Island- 1.0.1
+- 2024-08-14 Parkitect Version 1.10e2
+- 2024-08-14 The Lullaby of Life 1.0.7.0
+- 2024-08-13 Astrea: Six-Sided Oracles 1.1.573
+- 2024-08-13 Nova Drift 1.0.6
+- 2024-08-13 Ostriv 0.5.8.5
+- 2024-08-13 Synergy 2408121357
+- 2024-08-13 UnderRail 1.2.0.18
+- 2024-08-12 Going Medieval 0.19.30REL
+- 2024-07-25 Succubus 1.15.18327
