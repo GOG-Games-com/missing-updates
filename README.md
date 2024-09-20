@@ -4,34 +4,36 @@
 
 # Want to contribute something? Upload them somewhere then send an email to <a href="mailto:donate@gog-games.to">donate@gog-games.to</a> with the item(s) and download link(s).
 
-- 2024-08-16 Astral Ascent v909-release
-- 2024-08-16 Roboquest 1.4.0 - 225
-- 2024-08-16 Tunguska: The Visitation - Enhanced Edition 1.87-3
-- 2024-08-16 Wizordum v0.6.0.1
-- 2024-08-16 Odd Realm 1.0.25.0 Windows
-- 2024-08-16 X4: Foundations 7.10 Hotfix 1
-- 2024-08-15 dotAGE 1.3.3
-- 2024-08-15 DREDGE 2782 - PROD
-- 2024-08-15 Skelethrone: The Chronicles of Ericona 1.2.4.0
-- 2024-08-15 Everafter Falls 1.2.08
-- 2024-08-15 Travellers Rest 0.6.5.19
-- 2024-08-15 TFC: The Fertile Crescent 1.1000
-- 2024-08-15 Magical Drop VI 2.2.5
-- 2024-08-15 Old World 73566
-- 2024-08-14 Age of Wonders 4 96358
-- 2024-08-14 Trepang2 82.00
-- 2024-08-14 UBOAT 2024.1 (Full Release) Patch 8
-- 2024-08-14 Creatures of Ava 1.0.1
-- 2024-08-14 The Mystery Of Woolley Mountain 11
-- 2024-08-14 Victory at Sea Atlantic - World War II Naval Warfare 0.34.10.2
-- 2024-08-14 An Aunt After My Own Heart 1.0.2
-- 2024-08-14 NYO-NIN-JIMA -My New Life in Charge of a Tropical Island- 1.0.1
-- 2024-08-14 Parkitect Version 1.10e2
-- 2024-08-14 The Lullaby of Life 1.0.7.0
-- 2024-08-13 Astrea: Six-Sided Oracles 1.1.573
-- 2024-08-13 Nova Drift 1.0.6
-- 2024-08-13 Ostriv 0.5.8.5
-- 2024-08-13 Synergy 2408121357
-- 2024-08-13 UnderRail 1.2.0.18
-- 2024-08-12 Going Medieval 0.19.30REL
-- 2024-07-25 Succubus 1.15.18327
+- 2024-09-18 Deck of Souls 0.631
+- 2024-09-18 DREDGE 2879 - PROD
+- 2024-09-18 Tunguska: The Visitation - Enhanced Edition 1.89_1
+- 2024-09-18 Valfaris: Mecha Therion 1.1 Challenge Mode Update
+- 2024-09-18 Achilles: Legends Untold 1.5.0.3
+- 2024-09-18 Going Medieval 0.19.40REL
+- 2024-09-18 I Am Your Beast 1.04_gog
+- 2024-09-18 Way of the Hunter 1.26e
+- 2024-09-18 Europa Universalis IV 1.37.4.1
+- 2024-09-18 Hellish Quart 0.4351
+- 2024-09-18 Skelethrone: The Chronicles of Ericona 1.4.1.0
+- 2024-09-18 Hollowbody g1.5 - Patch 3
+- 2024-09-18 Nienix: Cosmic Warfare 1.094
+- 2024-09-17 Dome Keeper 4.0.4
+- 2024-09-17 Ghostrunner 2 42218_37
+- 2024-09-17 No Man's Sky 5.12_Aquarius_129192
+- 2024-09-17 Shattered Pixel Dungeon v2.5.2
+- 2024-09-17 Worldless 1.3.4
+- 2024-09-17 Planetbase 1.4.0
+- 2024-09-16 Anger Foot 1.46
+- 2024-09-16 Dreadful River 0.8.3.1
+- 2024-09-16 Victory at Sea Atlantic - World War II Naval Warfare 0.36.1.1
+- 2024-09-16 Forgive Me Father 2 0.4.20.2Ug
+- 2024-09-16 Gravity Circuit 1.2.1
+- 2024-09-16 Learning Factory 0.90.186b
+- 2024-09-16 The Operator 4496
+- 2024-09-16 Beyond Sunset EA4
+- 2024-09-16 Core Keeper 1.0.0.8-46b5
+- 2024-09-16 Factory Town 2.2.5b
+- 2024-09-15 AI War 2 5.610
+- 2024-09-09 Parkitect Version 1.10e3
+- 2024-05-09 Telling Lies 1.5
+- 2024-02-27 Wolfenstein: The New Order 1.0.0.2 hotfix
